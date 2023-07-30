@@ -5,3 +5,13 @@ This repository contains the links to the implementations of the new structures 
 * Ring: https://github.com/adriangbrandon/ring-basic-p
 * RDFCSA: https://github.com/adriangbrandon/rdfcsaLTJ
 * CompactLTJ: falta
+
+#Authors
+* Diego Arroyuelo
+* Fabrizio Barisione
+* Daniela Campos
+* Antonio Fariña
+* Adrián Gómez-Brandón
+* Gonzalo Navarro
+* Carlos Rojas
+* Domagoj Vrgoč
