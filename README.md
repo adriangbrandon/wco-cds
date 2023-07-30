@@ -6,7 +6,7 @@ This repository contains the links to the implementations of the new structures 
 * RDFCSA: https://github.com/adriangbrandon/rdfcsaLTJ
 * CompactLTJ: falta
 
-#Authors
+# Authors
 * Diego Arroyuelo
 * Fabrizio Barisione
 * Daniela Campos
