@@ -4,7 +4,7 @@ This repository contains the links to the implementations of the new structures 
 
 * Ring: https://github.com/adriangbrandon/ring-basic-p
 * RDFCSA: https://github.com/adriangbrandon/rdfcsaLTJ
-* CompactLTJ: https://github.com/darroyue/CompactLTJ/
+* CompactLTJ: https://github.com/darroyue/CompactLTJ
 * QDags: https://github.com/darroyue/qdags
 
 # Authors
